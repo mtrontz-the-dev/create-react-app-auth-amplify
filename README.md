@@ -19,7 +19,7 @@ The Amplify Console will fork this repo in your GitHub account, and then build a
 1. Clone the repo that was just forked in your account
 
   ```
-  git clone git@github.com:<username>/create-react-app-auth-amplify.git
+  git clone git@github.com:mtrontz-the-dev/create-react-app-auth-amplify.git
 
   cd create-react-app-auth-amplify && npm install
   ```
